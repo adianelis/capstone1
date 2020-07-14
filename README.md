@@ -1,5 +1,5 @@
 # capstone1
-THINKFUL Capstone 1: Analytic Report and Research Proposal
+THINKFUL Capstone 1: Analytic Report and Research Proposal /n
 1- Describe your dataset. Describe and explore your dataset in the initial section of your Report. What does your data contain and what is its background? Where does it come from? Why is it interesting or significant? Conduct summary statistics and produce visualizations for the particular variables from the dataset that you will use.
 
 2- Ask and answer analytic questions. Ask three analytic questions and answer each one with a combination of statistics and visualizations. These analytic questions can focus on individuals behaviors or comparisons of the population.
